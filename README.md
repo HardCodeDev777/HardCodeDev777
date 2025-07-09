@@ -23,7 +23,3 @@
 
 ## 🔥 Languages & Frameworks & Tools 🔥
 ![Icons](https://skills.syvixor.com/api/icons?i=unity,visualstudio,visualstudiocode,github,ollama,blender,capcut,dotnet,csharp,cpp,c,golang,javascript,typescript,python,html,css)
-
----
-
-> If you want to contact me: hardcodedev777@yandex.com
