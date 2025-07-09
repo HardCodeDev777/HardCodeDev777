@@ -14,10 +14,10 @@
 
 ## ⭐️ Best Achievements
 
-- Created first game framework that lets you to talk with AI.
+- Created world's first game framework that lets you talk with AI.
 - Integrated [Ollama](https://ollama.com) in C++, C and Unity.
-- Have some repositories added in [Ollama Community Integrations](https://github.com/ollama/ollama?tab=readme-ov-file#community-integrations). 
-- Created repository generator in Go that lets you to generate as many repositories to your Github profile as you want.
+- Some repositories added in [Ollama Community Integrations](https://github.com/ollama/ollama?tab=readme-ov-file#community-integrations). 
+- Created repository generator in Go that lets you generate as many repositories to your Github profile as you want.
 
 ---
 
