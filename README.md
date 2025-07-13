@@ -22,4 +22,4 @@
 ---
 
 ## 🔥 Languages & Frameworks & Tools 🔥
-![Icons](https://skills.syvixor.com/api/icons?i=unity,visualstudio,visualstudiocode,github,ollama,blender,capcut,dotnet,csharp,cpp,c,golang,javascript,typescript,python,html,css,windows)
+![Icons](https://skills.syvixor.com/api/icons?i=windows,unity,dnspy,visualstudio,visualstudiocode,github,ollama,blender,capcut,dotnet,blazor,csharp,cpp,c,golang,javascript,typescript,python,html,css)
