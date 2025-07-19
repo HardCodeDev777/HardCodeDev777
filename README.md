@@ -16,7 +16,8 @@
 
 - Created world's first game framework that lets you talk with AI.
 - Integrated [Ollama](https://ollama.com) in C++, C and Unity.
-- Some of my repositories were added to [Ollama Community Integrations](https://github.com/ollama/ollama?tab=readme-ov-file#community-integrations). 
+- Some of my repositories were added to [Ollama Community Integrations](https://github.com/ollama/ollama?tab=readme-ov-file#community-integrations).
+- Created desktop app in Rust that monitors game you're playing and changes Github status based on it.
 - Created repository generator in Go that lets you add unlimited repositories to your GitHub profile.
 
 ---
