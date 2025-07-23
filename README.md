@@ -23,7 +23,7 @@
 ---
 
 ## 🔥 Languages & Frameworks & Tools 🔥
-![Icons](https://skills.syvixor.com/api/icons?i=windows,git,unity,dnspy,visualstudio,visualstudiocode,github,ollama,blender,capcut,dotnet,blazor,slint,csharp,cpp,c,rust,golang,javascript,typescript,python,html,css)
+![Icons](https://skills.syvixor.com/api/icons?i=windows,git,unity,dnspy,visualstudio,visualstudiocode,github,ollama,mkdocs,blender,capcut,dotnet,blazor,slint,materialformkdocs,csharp,cpp,c,rust,golang,javascript,typescript,python,html,css)
 
 ## ✍️ Legendary quote
 
