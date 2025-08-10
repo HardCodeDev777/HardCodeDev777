@@ -25,6 +25,6 @@
 ## 🔥 Languages & Frameworks & Tools 🔥
 ![Icons](https://skills.syvixor.com/api/icons?i=windows,git,unity,dnspy,visualstudio,visualstudiocode,github,ollama,mkdocs,blender,capcut,dotnet,blazor,slint,materialformkdocs,csharp,cpp,c,rust,golang,javascript,typescript,python,html,css)
 
-## ✍️ Legendary quote
+## ✍️
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark&quote=I%20don%E2%80%99t%20write%20bugs.%20I%20write%20unexpected%20features%20that%20scare%20the%20compiler.)
