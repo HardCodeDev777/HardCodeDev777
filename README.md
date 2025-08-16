@@ -22,8 +22,16 @@
 
 ---
 
+## 📊 Statistic
+
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HardCodeDev777&layout=donut&langs_count=20&theme=holi)
+
+---
+
 ## 🔥 Languages & Frameworks & Tools 🔥
 ![Icons](https://skills.syvixor.com/api/icons?i=windows,git,unity,dnspy,visualstudio,visualstudiocode,github,ollama,mkdocs,blender,capcut,dotnet,blazor,slint,materialformkdocs,csharp,cpp,c,rust,golang,javascript,typescript,python,html,css)
+
+---
 
 ## ✍️
 
